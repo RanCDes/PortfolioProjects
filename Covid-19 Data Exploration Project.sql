@@ -1,7 +1,7 @@
 /*
 COVID-19 DATA EXPLORATION
 
-Skills Used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Data Type Conversion 
+Skills Used: Aggregate Functions, Windows Functions, Joins, CTE's, Converting Data Types, Creating Views
 */
 
 Select *
